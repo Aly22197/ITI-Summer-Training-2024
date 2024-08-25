@@ -1,2 +1,1 @@
 # crowdfunding
-beta
